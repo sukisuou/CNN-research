@@ -1,3 +1,4 @@
+# basic modelling
 import tensorflow as tf
 from tensorflow.keras.layers import Dense, Dropout, LeakyReLU, Conv2D, MaxPooling2D, GlobalAveragePooling2D, Rescaling
 import numpy as np
